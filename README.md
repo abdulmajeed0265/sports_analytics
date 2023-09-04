@@ -1,4 +1,4 @@
-# Aports Analytics
+# Sports Analytics
 ___
 * Sports analytics is the use of data and statistical analysis to improve the performance of sports teams and athletes. It involves collecting and analyzing data from a variety of sources such as player stats, team stats, and game footage, and using this data to identify trends and patterns, make predictions, and inform decision-making.
 
